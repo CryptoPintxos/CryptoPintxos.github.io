@@ -1,0 +1,35 @@
+{
+    "holders": [
+        {
+            "address": "0x52d7Bb43F054B67cc6c08aebE4E1DE662082DD4E",
+            "ens_name": "None",
+            "pieces_owned": "10"
+        },
+        {
+            "address": "0x2F7757347EB709D25CFC37a21f21E9922F33D4eC",
+            "ens_name": "None",
+            "pieces_owned": "4"
+        },
+        {
+            "address": "0xaf6459Cb9FfA9A7a80aa3967Ff4B1a7c9613c932",
+            "ens_name": "None",
+            "pieces_owned": "4"
+        },
+        {
+            "address": "0x5bc81B98D214C599f6ED8c2aCc96619B53EAb256",
+            "ens_name": "None",
+            "pieces_owned": "2"
+        },
+        {
+            "address": "0x8339091D86615dade7845A5458A18dDdb4C91E89",
+            "ens_name": "None",
+            "pieces_owned": "2"
+        },
+        {
+            "address": "0xA9064c81D4b872769f09Af8450Bc8Cc7F8Af4588",
+            "ens_name": "None",
+            "pieces_owned": "1"
+        }
+    ],
+    "updated_at": 1655593085.70633
+}
