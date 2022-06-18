@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #277",
+  "description": "Baguette with shredded  tomatoes, salchichon, endives and walnut.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/277.png",
+  "edition": 277,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Salchichon"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Endives"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Walnut"
+    }
+  ]
+}

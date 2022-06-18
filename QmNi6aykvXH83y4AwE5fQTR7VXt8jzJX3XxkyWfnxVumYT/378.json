@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #378",
+  "description": "Brioche with mayonnaise, lomo, rocket and olive  oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/378.png",
+  "edition": 378,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Mayonnaise"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Lomo"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Olive Oil"
+    }
+  ]
+}

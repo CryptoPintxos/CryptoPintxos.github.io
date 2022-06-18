@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #12",
+  "description": "Brioche with basil pesto, rocket, egg and olive  oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/12.png",
+  "edition": 12,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Egg"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Olive Oil"
+    }
+  ]
+}

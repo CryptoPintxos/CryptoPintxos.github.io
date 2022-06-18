@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #337",
+  "description": "Brioche with piquillo  spread, cecina, rocket and pumpkin seed oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/337.png",
+  "edition": 337,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Piquillo Spread"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Cecina"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Pumpkin seed oil"
+    }
+  ]
+}

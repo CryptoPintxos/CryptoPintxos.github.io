@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #371",
+  "description": "Brioche with piquillo  spread, salchichon, rocket and olive  oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/371.png",
+  "edition": 371,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Piquillo Spread"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Salchichon"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Olive Oil"
+    }
+  ]
+}

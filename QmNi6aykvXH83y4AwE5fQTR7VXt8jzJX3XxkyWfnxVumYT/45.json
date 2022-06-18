@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #45",
+  "description": "Ciabatta with mayonnaise, rocket, quail  egg and olive  oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/45.png",
+  "edition": 45,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Mayonnaise"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Quail Egg"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Olive Oil"
+    }
+  ]
+}

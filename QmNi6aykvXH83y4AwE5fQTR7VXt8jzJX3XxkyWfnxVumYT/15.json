@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #15",
+  "description": "Brioche with piquillo  spread, frisee, egg  yolk and olive  oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/15.png",
+  "edition": 15,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Piquillo Spread"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Frisee"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Egg Yolk"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Olive Oil"
+    }
+  ]
+}

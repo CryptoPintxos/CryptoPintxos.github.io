@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #224",
+  "description": "Baguette with shredded  tomatoes, idiazabal  cheese, longanizza and giant  caperberries.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/224.png",
+  "edition": 224,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Idiazabal Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Longanizza"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Giant Caperberries"
+    }
+  ]
+}

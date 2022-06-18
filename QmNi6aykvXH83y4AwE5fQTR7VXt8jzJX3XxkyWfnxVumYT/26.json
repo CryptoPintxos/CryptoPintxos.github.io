@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #26",
+  "description": "Baguette with basil pesto, rocket, egg and olive  oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/26.png",
+  "edition": 26,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Egg"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Olive Oil"
+    }
+  ]
+}

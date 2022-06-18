@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #364",
+  "description": "Ciabatta with hummus, pastrami, endives and pumpkin seed oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/364.png",
+  "edition": 364,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Hummus"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Pastrami"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Endives"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Pumpkin seed oil"
+    }
+  ]
+}

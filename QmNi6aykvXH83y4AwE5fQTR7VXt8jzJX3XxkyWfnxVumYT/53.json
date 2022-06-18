@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #53",
+  "description": "Baguette with hummus, endives, egg and truffle oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/53.png",
+  "edition": 53,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Hummus"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Endives"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Egg"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Truffle oil"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #84",
+  "description": "Baguette with hummus, longanizza, capers and dill.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/84.png",
+  "edition": 84,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Hummus"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Longanizza"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Capers"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Dill"
+    }
+  ]
+}

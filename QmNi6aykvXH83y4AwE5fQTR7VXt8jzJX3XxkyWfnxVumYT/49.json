@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #49",
+  "description": "Ciabatta with hummus, rocket, egg and pumpkin seed oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/49.png",
+  "edition": 49,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Hummus"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Egg"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Pumpkin seed oil"
+    }
+  ]
+}

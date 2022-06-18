@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #329",
+  "description": "Brioche with basil pesto, cecina, rocket and olive  oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/329.png",
+  "edition": 329,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Cecina"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Olive Oil"
+    }
+  ]
+}

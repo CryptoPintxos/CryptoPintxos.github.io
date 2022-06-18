@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #172",
+  "description": "Brioche with shredded  tomatoes, blue  cheese, bacon and pickled  green  peppercorns.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/172.png",
+  "edition": 172,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Blue Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Bacon"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Pickled Green Peppercorns"
+    }
+  ]
+}

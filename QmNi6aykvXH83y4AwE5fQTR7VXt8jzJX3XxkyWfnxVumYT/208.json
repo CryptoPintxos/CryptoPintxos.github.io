@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #208",
+  "description": "Brioche with shredded  tomatoes, goat  cheese, blood  saussage and dried tomatoes in oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/208.png",
+  "edition": 208,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Goat Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Blood Saussage"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "DriedTomatoesInOil"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #251",
+  "description": "Ciabatta with shredded  tomatoes, jamon, rocket and sesame seeds.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/251.png",
+  "edition": 251,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Jamon"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Sesame seeds"
+    }
+  ]
+}

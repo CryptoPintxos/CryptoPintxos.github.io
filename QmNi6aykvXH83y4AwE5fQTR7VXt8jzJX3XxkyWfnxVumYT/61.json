@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #61",
+  "description": "Baguette with basil pesto, frisee, egg  yolk and olive  oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/61.png",
+  "edition": 61,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Frisee"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Egg Yolk"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Olive Oil"
+    }
+  ]
+}

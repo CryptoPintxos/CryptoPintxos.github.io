@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #263",
+  "description": "Ciabatta with shredded  tomatoes, lomo, rocket and walnut.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/263.png",
+  "edition": 263,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Lomo"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Walnut"
+    }
+  ]
+}

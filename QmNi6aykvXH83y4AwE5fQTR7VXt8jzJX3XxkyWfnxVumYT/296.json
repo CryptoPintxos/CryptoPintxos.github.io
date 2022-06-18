@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #296",
+  "description": "Baguette with shredded  tomatoes, pastrami, frisee and pistacchio.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/296.png",
+  "edition": 296,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Pastrami"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Frisee"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Pistacchio"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #30",
+  "description": "Baguette with hummus, rocket, quail  egg and pumpkin seed oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/30.png",
+  "edition": 30,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Hummus"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Quail Egg"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Pumpkin seed oil"
+    }
+  ]
+}

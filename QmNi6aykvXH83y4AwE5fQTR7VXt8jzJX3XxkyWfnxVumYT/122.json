@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #122",
+  "description": "Brioche with mayonnaise, blood  saussage, gherkins and rosemary.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/122.png",
+  "edition": 122,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Mayonnaise"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Blood Saussage"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Gherkins"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Rosemary"
+    }
+  ]
+}

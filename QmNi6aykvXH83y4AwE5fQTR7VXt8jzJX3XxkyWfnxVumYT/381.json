@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #381",
+  "description": "Ciabatta with mayonnaise, chorizo, rocket and truffle oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/381.png",
+  "edition": 381,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Mayonnaise"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Chorizo"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Truffle oil"
+    }
+  ]
+}

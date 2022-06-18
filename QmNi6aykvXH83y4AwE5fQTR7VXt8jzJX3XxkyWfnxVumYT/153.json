@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #153",
+  "description": "Brioche with piquillo  spread, blood  saussage, giant  caperberries and rosemary.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/153.png",
+  "edition": 153,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Piquillo Spread"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Blood Saussage"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Giant Caperberries"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Rosemary"
+    }
+  ]
+}

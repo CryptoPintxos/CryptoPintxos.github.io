@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #68",
+  "description": "Brioche with piquillo  spread, rocket, quail  egg and truffle oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/68.png",
+  "edition": 68,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Piquillo Spread"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Quail Egg"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Truffle oil"
+    }
+  ]
+}

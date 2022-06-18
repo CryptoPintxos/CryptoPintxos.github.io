@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #304",
+  "description": "Baguette with shredded  tomatoes, jamon, rocket and pistacchio.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/304.png",
+  "edition": 304,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Jamon"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Pistacchio"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #269",
+  "description": "Ciabatta with shredded  tomatoes, wild  boar head salami, rocket and hazelnut.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/269.png",
+  "edition": 269,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Wild Boar head salami"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Hazelnut"
+    }
+  ]
+}

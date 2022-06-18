@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #262",
+  "description": "Brioche with shredded  tomatoes, wild  boar head salami, frisee and hazelnut.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/262.png",
+  "edition": 262,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Wild Boar head salami"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Frisee"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Hazelnut"
+    }
+  ]
+}

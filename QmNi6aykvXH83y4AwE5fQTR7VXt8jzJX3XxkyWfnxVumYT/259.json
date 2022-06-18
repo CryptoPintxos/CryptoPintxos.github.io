@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #259",
+  "description": "Brioche with shredded  tomatoes, salchichon, frisee and pumpkin seed.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/259.png",
+  "edition": 259,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Salchichon"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Frisee"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Pumpkin seed"
+    }
+  ]
+}

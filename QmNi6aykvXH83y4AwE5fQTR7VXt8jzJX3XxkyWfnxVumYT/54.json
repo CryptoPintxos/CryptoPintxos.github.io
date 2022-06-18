@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #54",
+  "description": "Ciabatta with basil pesto, frisee, egg  yolk and olive  oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/54.png",
+  "edition": 54,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Frisee"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Egg Yolk"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Olive Oil"
+    }
+  ]
+}

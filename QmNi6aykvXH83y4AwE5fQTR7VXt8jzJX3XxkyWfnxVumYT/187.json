@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #187",
+  "description": "Brioche with shredded  tomatoes, blue  cheese, blood  saussage and pickled  green  peppercorns.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/187.png",
+  "edition": 187,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Blue Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Blood Saussage"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Pickled Green Peppercorns"
+    }
+  ]
+}

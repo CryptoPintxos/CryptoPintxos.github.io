@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #94",
+  "description": "Baguette with mayonnaise, blood  saussage, dried tomatoes in oil and thyme.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/94.png",
+  "edition": 94,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Mayonnaise"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Blood Saussage"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "DriedTomatoesInOil"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Thyme"
+    }
+  ]
+}

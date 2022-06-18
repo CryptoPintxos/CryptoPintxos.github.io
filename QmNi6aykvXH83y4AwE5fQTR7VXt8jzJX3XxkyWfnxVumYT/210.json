@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #210",
+  "description": "Ciabatta with shredded  tomatoes, blue  cheese, bacon and pickled  green  peppercorns.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/210.png",
+  "edition": 210,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Blue Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Bacon"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Pickled Green Peppercorns"
+    }
+  ]
+}

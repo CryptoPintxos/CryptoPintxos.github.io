@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #131",
+  "description": "Brioche with basil pesto, txistorra, black  olives and chives.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/131.png",
+  "edition": 131,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Txistorra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Black Olives"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Chives"
+    }
+  ]
+}

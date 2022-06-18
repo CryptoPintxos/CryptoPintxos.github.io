@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #315",
+  "description": "Ciabatta with mayonnaise, lomo, rocket and truffle oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/315.png",
+  "edition": 315,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Mayonnaise"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Lomo"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Truffle oil"
+    }
+  ]
+}

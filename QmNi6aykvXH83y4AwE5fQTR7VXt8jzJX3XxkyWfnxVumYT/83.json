@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #83",
+  "description": "Baguette with hummus, butifarra, pickled  green  peppercorns and oregano.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/83.png",
+  "edition": 83,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Hummus"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Butifarra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Pickled Green Peppercorns"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Oregano"
+    }
+  ]
+}

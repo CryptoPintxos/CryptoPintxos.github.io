@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #149",
+  "description": "Brioche with hummus, longanizza, dried tomatoes in oil and dill.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/149.png",
+  "edition": 149,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Hummus"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Longanizza"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "DriedTomatoesInOil"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Dill"
+    }
+  ]
+}

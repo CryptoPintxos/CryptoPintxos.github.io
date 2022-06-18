@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #171",
+  "description": "Brioche with shredded  tomatoes, blue  cheese, butifarra and gherkins.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/171.png",
+  "edition": 171,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Blue Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Butifarra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Gherkins"
+    }
+  ]
+}

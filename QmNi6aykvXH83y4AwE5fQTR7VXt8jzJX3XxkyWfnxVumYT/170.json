@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #170",
+  "description": "Brioche with shredded  tomatoes, idiazabal  cheese, butifarra and pickled  green  peppercorns.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/170.png",
+  "edition": 170,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Idiazabal Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Butifarra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Pickled Green Peppercorns"
+    }
+  ]
+}

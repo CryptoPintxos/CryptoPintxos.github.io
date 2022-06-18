@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #119",
+  "description": "Brioche with basil pesto, butifarra, piparra and thyme.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/119.png",
+  "edition": 119,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Butifarra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Piparra"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Thyme"
+    }
+  ]
+}

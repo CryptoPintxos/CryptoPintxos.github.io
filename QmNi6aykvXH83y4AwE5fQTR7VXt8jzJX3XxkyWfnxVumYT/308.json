@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #308",
+  "description": "Brioche with shredded  tomatoes, pastrami, rocket and walnut.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/308.png",
+  "edition": 308,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Pastrami"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Walnut"
+    }
+  ]
+}

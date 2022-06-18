@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #152",
+  "description": "Baguette with basil pesto, butifarra, pickled artichoke and rosemary.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/152.png",
+  "edition": 152,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Butifarra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "PickledArtichoke"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Rosemary"
+    }
+  ]
+}

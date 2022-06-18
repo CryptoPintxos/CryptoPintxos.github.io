@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #228",
+  "description": "Brioche with shredded  tomatoes, blue  cheese, longanizza and green olives.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/228.png",
+  "edition": 228,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Blue Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Longanizza"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Green olives"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #214",
+  "description": "Baguette with shredded  tomatoes, goat  cheese, butifarra and manzanilla  olives.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/214.png",
+  "edition": 214,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Goat Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Butifarra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Manzanilla Olives"
+    }
+  ]
+}

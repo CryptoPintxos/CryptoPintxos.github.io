@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #95",
+  "description": "Ciabatta with basil pesto, blood  saussage, piparra and dill.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/95.png",
+  "edition": 95,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Blood Saussage"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Piparra"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Dill"
+    }
+  ]
+}

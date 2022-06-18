@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #261",
+  "description": "Brioche with shredded  tomatoes, chorizo, rocket and sesame seeds.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/261.png",
+  "edition": 261,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Chorizo"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Sesame seeds"
+    }
+  ]
+}

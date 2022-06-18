@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #386",
+  "description": "Brioche with hummus, jamon, endives and pumpkin seed oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/386.png",
+  "edition": 386,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Hummus"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Jamon"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Endives"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Pumpkin seed oil"
+    }
+  ]
+}

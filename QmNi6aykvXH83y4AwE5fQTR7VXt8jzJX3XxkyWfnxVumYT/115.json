@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #115",
+  "description": "Ciabatta with basil pesto, longanizza, gherkins and chives.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/115.png",
+  "edition": 115,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Longanizza"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Gherkins"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Chives"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #136",
+  "description": "Brioche with piquillo  spread, txistorra, piparra and oregano.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/136.png",
+  "edition": 136,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Piquillo Spread"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Txistorra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Piparra"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Oregano"
+    }
+  ]
+}

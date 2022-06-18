@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #212",
+  "description": "Brioche with shredded  tomatoes, goat  cheese, bacon and black  olives.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/212.png",
+  "edition": 212,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Goat Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Bacon"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Black Olives"
+    }
+  ]
+}

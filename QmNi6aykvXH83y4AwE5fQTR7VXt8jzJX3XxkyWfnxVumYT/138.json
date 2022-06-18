@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #138",
+  "description": "Baguette with hummus, butifarra, dried tomatoes in oil and rosemary.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/138.png",
+  "edition": 138,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Hummus"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Butifarra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "DriedTomatoesInOil"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Rosemary"
+    }
+  ]
+}

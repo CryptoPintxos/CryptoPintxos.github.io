@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #211",
+  "description": "Ciabatta with shredded  tomatoes, ossau iraty  cheese, bacon and piparra.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/211.png",
+  "edition": 211,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "OssauIraty Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Bacon"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Piparra"
+    }
+  ]
+}

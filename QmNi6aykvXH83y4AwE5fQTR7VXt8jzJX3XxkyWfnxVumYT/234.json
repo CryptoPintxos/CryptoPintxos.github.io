@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #234",
+  "description": "Brioche with shredded  tomatoes, ossau iraty  cheese, butifarra and cornichons.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/234.png",
+  "edition": 234,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "OssauIraty Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Butifarra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Cornichons"
+    }
+  ]
+}

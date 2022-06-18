@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #160",
+  "description": "Brioche with shredded  tomatoes, brie  cheese, longanizza and black  olives.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/160.png",
+  "edition": 160,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Brie Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Longanizza"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Black Olives"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #265",
+  "description": "Brioche with shredded  tomatoes, pastrami, frisee and sesame seeds.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/265.png",
+  "edition": 265,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Pastrami"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Frisee"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Sesame seeds"
+    }
+  ]
+}

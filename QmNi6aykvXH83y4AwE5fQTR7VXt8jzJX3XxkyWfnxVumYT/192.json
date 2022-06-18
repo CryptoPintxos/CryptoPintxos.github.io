@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #192",
+  "description": "Ciabatta with shredded  tomatoes, goat  cheese, txistorra and green olives.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/192.png",
+  "edition": 192,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Goat Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Txistorra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Green olives"
+    }
+  ]
+}

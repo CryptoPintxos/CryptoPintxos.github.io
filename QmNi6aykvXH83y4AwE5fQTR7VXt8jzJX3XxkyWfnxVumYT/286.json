@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #286",
+  "description": "Brioche with shredded  tomatoes, chorizo, frisee and pistacchio.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/286.png",
+  "edition": 286,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Chorizo"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Frisee"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Pistacchio"
+    }
+  ]
+}

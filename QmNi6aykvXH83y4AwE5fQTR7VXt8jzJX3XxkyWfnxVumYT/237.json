@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #237",
+  "description": "Brioche with shredded  tomatoes, papada  maskarada, frisee and almonds.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/237.png",
+  "edition": 237,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Papada Maskarada"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Frisee"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Almonds"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #58",
+  "description": "Brioche with hummus, endives, egg  yolk and truffle oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/58.png",
+  "edition": 58,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Hummus"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Endives"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Egg Yolk"
+    },
+    {
+      "trait_type": "Oil",
+      "value": "Truffle oil"
+    }
+  ]
+}

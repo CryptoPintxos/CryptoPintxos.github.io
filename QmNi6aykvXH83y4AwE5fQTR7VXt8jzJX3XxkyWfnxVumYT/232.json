@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #232",
+  "description": "Ciabatta with shredded  tomatoes, roncal  cheese, bacon and cornichons.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/232.png",
+  "edition": 232,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Roncal Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Bacon"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Cornichons"
+    }
+  ]
+}

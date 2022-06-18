@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #145",
+  "description": "Ciabatta with basil pesto, longanizza, green olives and parsley.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/145.png",
+  "edition": 145,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Longanizza"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Green olives"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Parsley"
+    }
+  ]
+}

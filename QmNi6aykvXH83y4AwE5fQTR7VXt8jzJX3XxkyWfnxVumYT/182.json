@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #182",
+  "description": "Brioche with shredded  tomatoes, idiazabal  cheese, bacon and gherkins.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/182.png",
+  "edition": 182,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Idiazabal Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Bacon"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Gherkins"
+    }
+  ]
+}

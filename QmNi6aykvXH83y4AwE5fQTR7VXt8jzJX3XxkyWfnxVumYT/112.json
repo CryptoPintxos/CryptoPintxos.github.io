@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #112",
+  "description": "Ciabatta with mayonnaise, blood  saussage, pickled artichoke and oregano.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/112.png",
+  "edition": 112,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Mayonnaise"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Blood Saussage"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "PickledArtichoke"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Oregano"
+    }
+  ]
+}

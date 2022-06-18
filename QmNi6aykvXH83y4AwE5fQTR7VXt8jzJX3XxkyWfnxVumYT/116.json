@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #116",
+  "description": "Brioche with hummus, bacon, gherkins and chives.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/116.png",
+  "edition": 116,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Hummus"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Bacon"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Gherkins"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Chives"
+    }
+  ]
+}

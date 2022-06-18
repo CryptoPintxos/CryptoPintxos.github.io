@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #290",
+  "description": "Brioche with shredded  tomatoes, pastrami, endives and pine nut.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/290.png",
+  "edition": 290,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Pastrami"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Endives"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Pine nut"
+    }
+  ]
+}

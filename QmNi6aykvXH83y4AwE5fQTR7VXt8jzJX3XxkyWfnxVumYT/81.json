@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #81",
+  "description": "Brioche with piquillo  spread, butifarra, dried tomatoes in oil and oregano.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/81.png",
+  "edition": 81,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Piquillo Spread"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Butifarra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "DriedTomatoesInOil"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Oregano"
+    }
+  ]
+}

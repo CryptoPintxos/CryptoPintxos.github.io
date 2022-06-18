@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #128",
+  "description": "Ciabatta with hummus, butifarra, giant  caperberries and parsley.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/128.png",
+  "edition": 128,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Hummus"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Butifarra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Giant Caperberries"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Parsley"
+    }
+  ]
+}

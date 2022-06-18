@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #88",
+  "description": "Ciabatta with piquillo  spread, txistorra, pickled artichoke and rosemary.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/88.png",
+  "edition": 88,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Piquillo Spread"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Txistorra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "PickledArtichoke"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Rosemary"
+    }
+  ]
+}

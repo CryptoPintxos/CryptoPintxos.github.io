@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #183",
+  "description": "Baguette with shredded  tomatoes, roncal  cheese, longanizza and cornichons.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/183.png",
+  "edition": 183,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Roncal Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Longanizza"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Cornichons"
+    }
+  ]
+}

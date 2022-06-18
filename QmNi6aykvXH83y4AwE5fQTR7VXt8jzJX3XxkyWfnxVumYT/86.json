@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #86",
+  "description": "Brioche with basil pesto, blood  saussage, manzanilla  olives and thyme.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/86.png",
+  "edition": 86,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Blood Saussage"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Manzanilla Olives"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Thyme"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #207",
+  "description": "Baguette with shredded  tomatoes, roncal  cheese, butifarra and manzanilla  olives.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/207.png",
+  "edition": 207,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Roncal Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Butifarra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Manzanilla Olives"
+    }
+  ]
+}

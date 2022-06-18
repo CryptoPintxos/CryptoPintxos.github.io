@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #163",
+  "description": "Baguette with shredded  tomatoes, goat  cheese, txistorra and giant  caperberries.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/163.png",
+  "edition": 163,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Goat Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Txistorra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Giant Caperberries"
+    }
+  ]
+}

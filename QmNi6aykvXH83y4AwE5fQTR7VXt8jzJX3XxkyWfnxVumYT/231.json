@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #231",
+  "description": "Ciabatta with shredded  tomatoes, ossau iraty  cheese, butifarra and manzanilla  olives.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/231.png",
+  "edition": 231,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "OssauIraty Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Butifarra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Manzanilla Olives"
+    }
+  ]
+}

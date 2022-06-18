@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #278",
+  "description": "Brioche with shredded  tomatoes, chorizo, endives and walnut.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/278.png",
+  "edition": 278,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Chorizo"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Endives"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Walnut"
+    }
+  ]
+}

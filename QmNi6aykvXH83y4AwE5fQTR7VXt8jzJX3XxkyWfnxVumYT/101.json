@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #101",
+  "description": "Ciabatta with mayonnaise, bacon, dried tomatoes in oil and parsley.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/101.png",
+  "edition": 101,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Mayonnaise"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Bacon"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "DriedTomatoesInOil"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Parsley"
+    }
+  ]
+}

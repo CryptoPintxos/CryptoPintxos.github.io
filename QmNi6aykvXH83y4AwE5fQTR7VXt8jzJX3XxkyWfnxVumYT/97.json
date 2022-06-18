@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #97",
+  "description": "Baguette with basil pesto, txistorra, pickled  green  peppercorns and oregano.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/97.png",
+  "edition": 97,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Txistorra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Pickled Green Peppercorns"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Oregano"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #189",
+  "description": "Baguette with shredded  tomatoes, idiazabal  cheese, blood  saussage and dried tomatoes in oil.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/189.png",
+  "edition": 189,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Idiazabal Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Blood Saussage"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "DriedTomatoesInOil"
+    }
+  ]
+}

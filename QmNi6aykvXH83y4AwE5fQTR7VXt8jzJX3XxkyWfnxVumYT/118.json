@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #118",
+  "description": "Ciabatta with mayonnaise, txistorra, green olives and thyme.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/118.png",
+  "edition": 118,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Mayonnaise"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Txistorra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Green olives"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Thyme"
+    }
+  ]
+}

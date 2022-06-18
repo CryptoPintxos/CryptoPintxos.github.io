@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #79",
+  "description": "Ciabatta with mayonnaise, longanizza, black  olives and chives.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/79.png",
+  "edition": 79,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Mayonnaise"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Longanizza"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Black Olives"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Chives"
+    }
+  ]
+}

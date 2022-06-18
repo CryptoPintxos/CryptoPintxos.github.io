@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #124",
+  "description": "Brioche with mayonnaise, butifarra, pickled  green  peppercorns and thyme.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/124.png",
+  "edition": 124,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Mayonnaise"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Butifarra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Pickled Green Peppercorns"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Thyme"
+    }
+  ]
+}

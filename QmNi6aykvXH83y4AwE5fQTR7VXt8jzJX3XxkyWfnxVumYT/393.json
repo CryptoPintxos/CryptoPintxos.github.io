@@ -1,0 +1,12 @@
+{
+  "name": "Crypto Pintxos #393",
+  "description": "Piparra chilli with anchovy and olive named after a Rita Hayworth movie of the same name. Historically, the first pintxo served in the 1940s in a bar called Valles that is still open.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/393.png",
+  "edition": 393,
+  "attributes": [
+    {
+      "trait_type": "Gilda",
+      "value": "Gilda #3"
+    }
+  ]
+}

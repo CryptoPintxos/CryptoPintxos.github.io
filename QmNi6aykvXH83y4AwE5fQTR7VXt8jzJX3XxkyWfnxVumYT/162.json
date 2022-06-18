@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #162",
+  "description": "Baguette with shredded  tomatoes, roncal  cheese, txistorra and cornichons.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/162.png",
+  "edition": 162,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Roncal Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Txistorra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Cornichons"
+    }
+  ]
+}

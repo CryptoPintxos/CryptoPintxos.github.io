@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #270",
+  "description": "Brioche with shredded  tomatoes, wild  boar head salami, endives and walnut.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/270.png",
+  "edition": 270,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Wild Boar head salami"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Endives"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Walnut"
+    }
+  ]
+}

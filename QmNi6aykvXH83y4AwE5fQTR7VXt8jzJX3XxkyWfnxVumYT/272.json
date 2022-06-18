@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #272",
+  "description": "Brioche with shredded  tomatoes, salchichon, endives and pine nut.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/272.png",
+  "edition": 272,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Salchichon"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Endives"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Pine nut"
+    }
+  ]
+}

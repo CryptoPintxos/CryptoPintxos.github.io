@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #223",
+  "description": "Brioche with shredded  tomatoes, ossau iraty  cheese, longanizza and gherkins.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/223.png",
+  "edition": 223,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "OssauIraty Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Longanizza"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Gherkins"
+    }
+  ]
+}

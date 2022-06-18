@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #283",
+  "description": "Ciabatta with shredded  tomatoes, papada  maskarada, frisee and sesame seeds.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/283.png",
+  "edition": 283,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Papada Maskarada"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Frisee"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Sesame seeds"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #195",
+  "description": "Brioche with shredded  tomatoes, brie  cheese, blood  saussage and green olives.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/195.png",
+  "edition": 195,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Brie Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Blood Saussage"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Green olives"
+    }
+  ]
+}

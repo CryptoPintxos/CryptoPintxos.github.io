@@ -1,0 +1,12 @@
+{
+  "name": "Crypto Pintxos #400",
+  "description": "Piquillo peppers appear for the first time in an 1894 publication described as less spicy peppers that have to be harvested before the sun becomes too strong. The first person to stuff piquillo peppers was the legendary chef Ramón Roteta at the end of the 1970s with a formula that became classic for peppers stuffed - spider crab in Sauce Americaine. In the present, it is more common to use brandade for stuffing, which is an emulsion of salt cod, olive oil, and potatoes.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/400.png",
+  "edition": 400,
+  "attributes": [
+    {
+      "trait_type": "Piquillo",
+      "value": "Piquillo #5"
+    }
+  ]
+}

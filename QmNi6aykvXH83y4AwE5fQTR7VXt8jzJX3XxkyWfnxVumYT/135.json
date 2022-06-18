@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #135",
+  "description": "Ciabatta with basil pesto, txistorra, green olives and parsley.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/135.png",
+  "edition": 135,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Ciabatta"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Basil pesto"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Txistorra"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Green olives"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Parsley"
+    }
+  ]
+}

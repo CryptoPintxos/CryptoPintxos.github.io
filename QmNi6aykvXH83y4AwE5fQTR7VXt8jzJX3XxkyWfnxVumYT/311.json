@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #311",
+  "description": "Baguette with shredded  tomatoes, lacon, frisee and pumpkin seed.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/311.png",
+  "edition": 311,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Baguette"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "ColdCuts",
+      "value": "Lacon"
+    },
+    {
+      "trait_type": "SaladLeaves",
+      "value": "Frisee"
+    },
+    {
+      "trait_type": "NutsSeeds",
+      "value": "Pumpkin seed"
+    }
+  ]
+}

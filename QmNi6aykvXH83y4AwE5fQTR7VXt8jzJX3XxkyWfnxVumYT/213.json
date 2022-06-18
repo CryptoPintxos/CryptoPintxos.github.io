@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #213",
+  "description": "Brioche with shredded  tomatoes, blue  cheese, longanizza and giant  caperberries.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/213.png",
+  "edition": 213,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Tomato",
+      "value": "Shredded Tomatoes"
+    },
+    {
+      "trait_type": "Cheeses",
+      "value": "Blue Cheese"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Longanizza"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Giant Caperberries"
+    }
+  ]
+}

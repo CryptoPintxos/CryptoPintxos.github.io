@@ -1,0 +1,28 @@
+{
+  "name": "Crypto Pintxos #102",
+  "description": "Brioche with piquillo  spread, longanizza, gherkins and parsley.",
+  "image": "ipfs://QmdoyFA341yk6rQCVEAPa9Pyw9mwXwkpwTJkzsijZRRqhN/102.png",
+  "edition": 102,
+  "attributes": [
+    {
+      "trait_type": "Breads",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "Spreads",
+      "value": "Piquillo Spread"
+    },
+    {
+      "trait_type": "CookedMeats",
+      "value": "Longanizza"
+    },
+    {
+      "trait_type": "Pickles",
+      "value": "Gherkins"
+    },
+    {
+      "trait_type": "Herbs",
+      "value": "Parsley"
+    }
+  ]
+}
