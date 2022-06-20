@@ -21,15 +21,15 @@
             "pieces_owned": "2"
         },
         {
-            "address": "0x8339091D86615dade7845A5458A18dDdb4C91E89",
+            "address": "0xA9064c81D4b872769f09Af8450Bc8Cc7F8Af4588",
             "ens_name": "None",
             "pieces_owned": "2"
         },
         {
-            "address": "0xA9064c81D4b872769f09Af8450Bc8Cc7F8Af4588",
+            "address": "0x8339091D86615dade7845A5458A18dDdb4C91E89",
             "ens_name": "None",
-            "pieces_owned": "1"
+            "pieces_owned": "2"
         }
     ],
-    "updated_at": 1655608590.584311
+    "updated_at": 1655756920.982346
 }
