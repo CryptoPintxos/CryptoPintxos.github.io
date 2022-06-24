@@ -31,10 +31,15 @@
             "pieces_owned": "2"
         },
         {
+            "address": "0x6bD102e400b7fCfc87f3AACC959591b4D5F1df37",
+            "ens_name": "None",
+            "pieces_owned": "2"
+        },
+        {
             "address": "0xeDb72292b92fe04B027FDf7cdc9dD41E1EAFe46B",
             "ens_name": "None",
             "pieces_owned": "1"
         }
     ],
-    "updated_at": 1656031515.95238
+    "updated_at": 1656091137.792701
 }
