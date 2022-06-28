@@ -36,6 +36,11 @@
             "pieces_owned": "2"
         },
         {
+            "address": "0x605D50F68E737eBF7F6054D6f7860010FC80971F",
+            "ens_name": "irizar.eth",
+            "pieces_owned": "2"
+        },
+        {
             "address": "0xeDb72292b92fe04B027FDf7cdc9dD41E1EAFe46B",
             "ens_name": "None",
             "pieces_owned": "1"
@@ -46,5 +51,5 @@
             "pieces_owned": "1"
         }
     ],
-    "updated_at": 1656421554.165866
+    "updated_at": 1656427456.172001
 }
