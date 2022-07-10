@@ -16,6 +16,11 @@
             "pieces_owned": "4"
         },
         {
+            "address": "0x917AA5c2639F064B90C6CA6DD8d99A4234D14d5E",
+            "ens_name": "lenhas.eth",
+            "pieces_owned": "3"
+        },
+        {
             "address": "0x5bc81B98D214C599f6ED8c2aCc96619B53EAb256",
             "ens_name": "None",
             "pieces_owned": "2"
@@ -51,5 +56,5 @@
             "pieces_owned": "1"
         }
     ],
-    "updated_at": 1657250306.265696
+    "updated_at": 1657411786.790712
 }
